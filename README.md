@@ -7,7 +7,7 @@
 
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sharonita)](https://solved.ac/sharonita/)
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={sharonita}&theme=dark)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sharonita&theme=dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharonita610&layout=compact)](https://github.com/sharonita610/github-readme-stats)<br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharonita610&show_icons=true&theme=radical)<br>
