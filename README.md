@@ -31,7 +31,7 @@
 
  ####  VERSION & SERVER <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
 
 
 <h3>📚 Learning & interested in 📚</h3>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
   
   
