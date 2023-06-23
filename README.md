@@ -3,7 +3,9 @@
 <h1> 😶‍🌫️&nbsp;SHARON KIM &nbsp;<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsharonita610&count_bg=%23929384&title_bg=%23E02E2E&icon=&icon_color=%236DDAE6&title=hits&edge_flat=false"/></a></h1>
 <div align = "center">
 
-## 👍Working on : https://sharonita610.notion.site/sharonita610/Toy-Project-ec454afd874f4e95aa6e319aa72707dd
+## 👍Working on :
+https://sharonita610.notion.site/sharonita610/Toy-Project-ec454afd874f4e95aa6e319aa72707dd
+회사에서 시작한 나홀로 toy-project
 
 
 
