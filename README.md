@@ -3,7 +3,7 @@
 <h1> 😶‍🌫️&nbsp;SHARON KIM &nbsp;<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsharonita610&count_bg=%23929384&title_bg=%23E02E2E&icon=&icon_color=%236DDAE6&title=hits&edge_flat=false"/></a></h1>
 <div align = "center">
 
-## 👍 Working on : refactoring
+## 👍 Working on : 첫 실무 중 배운 것들 기록 중<br>https://sharonita610.notion.site/Refactoring-0449fec47cdb4ed0b0532d47461e4fef?pvs=4<br>
 
 
 
