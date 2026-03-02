@@ -4,7 +4,7 @@
 <div align = "center">
 
  <!--### 👍 Working on : 첫 실무 중 배운 것들 기록 중<br>https://sharonita610.notion.site/Refactoring-0449fec47cdb4ed0b0532d47461e4fef?pvs=4<br> -->
-\
+
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharonita610&show_icons=true&theme=radical)<br> -->  
 
 <hr>  
@@ -17,7 +17,6 @@
 #### BACK-END<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=Spring Boot&logoColor=white" />  
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
