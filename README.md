@@ -4,14 +4,7 @@
 <div align = "center">
 
  <!--### 👍 Working on : 첫 실무 중 배운 것들 기록 중<br>https://sharonita610.notion.site/Refactoring-0449fec47cdb4ed0b0532d47461e4fef?pvs=4<br> -->
-
-
-
-
- <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sharonita&theme=warm)-->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sharonita)](https://solved.ac/sharonita/) -->  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharonita610&layout=compact)](https://github.com/sharonita610/github-readme-stats)
-  
+\
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharonita610&show_icons=true&theme=radical)<br> -->  
 
 <hr>  
