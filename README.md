@@ -21,7 +21,11 @@ Hi, I'm **Sharon Kim** — a Backend Developer.
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,ts)](https://skillicons.dev)
+
+### 📱 Mobile
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=spring,gradle,fastapi)](https://skillicons.dev)
@@ -36,6 +40,7 @@ Hi, I'm **Sharon Kim** — a Backend Developer.
 
 ### ☁️ DevOps & Infra
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,githubactions)](https://skillicons.dev)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
