@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Sharon Kim** — a Backend Developer.
+Hi, I'm **Sharon Kim** a Backend Developer.
 
 - 🔭 Building **scalable backend systems** with JVM & Python ecosystems  
 - 🌱 Currently exploring **event-driven architecture** with message queues  
